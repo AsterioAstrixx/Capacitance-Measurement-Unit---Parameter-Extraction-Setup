@@ -84,9 +84,12 @@ Built with:
 - **C-V Plot**: Visualize 1/C² vs V  
 
 ### Extract Parameters:
+![Junction Logo](https://github.com/AsterioAstrixx/Capacitance-Measurement-Unit---Parameter-Extraction-Setup/blob/master/junction.png)
+
 - **Built-in Potential (V_bi)** – Intercept of 1/C² vs V  
 - **Carrier Concentration (N_A)** – Slope of 1/C² vs V  
-- **Depletion Width (W)**:
+- **Depletion Width (W)**:![Depletion Width Calculation Formula](https://github.com/AsterioAstrixx/Capacitance-Measurement-Unit---Parameter-Extraction-Setup/blob/master/Depletion%20Width%20Formula.png)
+
 
 ## 📊 Results
 
@@ -117,7 +120,7 @@ Built with:
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE]() file for details.
 
 ---
 
