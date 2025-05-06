@@ -17,7 +17,10 @@ CMU Setup.py: Main Python source code for the GUI and calculations.
 CMU Setup.exe: Standalone Windows executable (78.4 MB).
 cv.py: Script for C-V sweep functionality.
 diode.ico: Custom icon for the application.
-CV sweep data.csv, CV sweep data.xlsx: Example data files.
+
+Sample Data
+CV sweep data.xlsx: Data Extracted from the SMU Keysight B1500A
+CV sweep data.csv: Warning!! Data Should be in this Format Befor Uploading
 cv.spec: PyInstaller specification file for building the executable.
 
 ##Requirements##
