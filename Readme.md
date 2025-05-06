@@ -63,7 +63,7 @@ Built with:
 ## 🚀 Usage
 
 ### Using the Executable:
-- Download `CMU Setup.exe` from the [Releases](https://github.com/AsterioAstrixx/Capacitance-Measurement-Unit-Setup/releases)
+- Download `CMU Setup.exe` from the [Releases](https://github.com/AsterioAstrixx/Capacitance-Measurement-Unit---Parameter-Extraction-Setup/releases)
 - Unzip and double-click it
 - Use the GUI to:
   - Load CSV (e.g., `CV sweep data.csv`)
