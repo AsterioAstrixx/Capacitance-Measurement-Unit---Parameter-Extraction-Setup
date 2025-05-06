@@ -127,7 +127,7 @@ This project is licensed under the **MIT License**. See the [LICENSE]() file for
 ## 🙏 Acknowledgments
 
 **Made with ❤️ by Ankur Majumdar**  
-🔗 IG: [@majumdar.ankur_225](https://www.instagram.com/majumdar.ankur_225)
+🔗 LinkedIN: [Ankur Majumdar](https://www.linkedin.com/in/ankur-majumdar-487824278/)
 
 **Supervisor**: Dr. Hemant Kumar  
 **Institute**: Jaypee Institute of Information Technology  
